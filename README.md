@@ -21,17 +21,14 @@ Esta atividade contém três exercícios que trabalham o uso de laços de repeti
 - Usando um laço `for`, exibe uma contagem regressiva até 0.
 
 **Exemplo com entrada 5:**
-
+```js
 5
 4
 3
 2
 1
 0
-
-
-
----
+```
 
 ## Exercício 03 – Ranking de Filmes
 
@@ -39,7 +36,7 @@ Esta atividade contém três exercícios que trabalham o uso de laços de repeti
 - Exiba os filmes numerados em forma de ranking no console.
 
 **Exemplo de saída:**
-
+```js
 1 - Vingadores: Ultimato
 2 - A Origem
 3 - Matrix
